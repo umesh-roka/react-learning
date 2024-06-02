@@ -1,9 +1,12 @@
 import React from 'react'
-
+import { Button } from "@material-tailwind/react";
 const Home = () => {
   return (
     <div>
-      This is Home
+
+ 
+ <Button>Button</Button>;
+ 
     </div>
   )
 }
